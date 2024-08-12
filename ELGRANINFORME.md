@@ -2,7 +2,7 @@
 
 ![imglogo](agcid.png)
 
-![imglogoo](1agcidlogominre.png)
+![imglogoo](agcidlogominre.png)
 
 Nombre: Alexandra Costa P.
 Cargo: Estudiante
