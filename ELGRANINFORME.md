@@ -1,5 +1,9 @@
 # INFORME
 
+![imglogo](agcid.png)
+
+![imglogoo](1agcidlogominre.png)
+
 Nombre: Alexandra Costa P.
 Cargo: Estudiante
 Contacto: fucapalexa@gmail.com
