@@ -130,7 +130,10 @@ Resguardar la información del proyecto y asegurarse de cifrar los datos sensibl
 
 #### Capturas de pantalla
 
----
+![img1](1.png)
+![img2](2.png)
+![img3](3.png)
+![img4](4.png)
 
 #### Reportes de herramientas
 
